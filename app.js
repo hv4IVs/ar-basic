@@ -9,6 +9,7 @@ class App {
     document.body.appendChild(container);
 
     this.clock = new THREE.Clock();
+    this.clock = new THREE.Clock();
 
     this.camera = new THREE.PerspectiveCamera(
       70,
